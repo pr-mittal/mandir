@@ -1,0 +1,35 @@
+.heading {
+    font-size:2rem;
+    font-weight: bolder;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+#content{
+    padding:5vw;
+    font-size: 1.5rem;
+}
+div [class*="name"]{
+    padding-left:  100px;
+/*    text-align: right;*/
+/*    background-color: aqua;*/
+}
+div [class*="amount"]{
+    text-align: left;
+/*    background-color: aliceblue;*/
+}
+@media only screen and (max-width:575px)
+{
+    
+    div [class*="name"]{
+        text-align: left;
+        padding-left: 0px;
+/*        background-color: aliceblue;*/
+    }
+    
+    div [class*="amount"]{
+        
+        text-align: center;
+/*        background-color: aliceblue;*/
+    }
+    
+}

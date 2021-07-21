@@ -1,0 +1,21 @@
+#google claender
+
+#mandir timings
+
+home 
+
+The mandir board
+
+conatct us
+
+donate
+
+past events
+
+https://akshardham.com/about-us/timeline/
+photogallery
+
+sorting in gallery
+backgroung: rgb(255, 255, 230)
+Navbar selected,footer :#c75347;
+font-style:Ubuntu Condensed

@@ -1,0 +1,14 @@
+
+<img
+srcset="
+carousel1_ub75kh_ar_1_1,c_fill,g_auto__c_scale,w_200.jpg 200w,
+carousel1_ub75kh_ar_1_1,c_fill,g_auto__c_scale,w_321.jpg 321w,
+carousel1_ub75kh_ar_1_1,c_fill,g_auto__c_scale,w_415.jpg 415w,
+carousel1_ub75kh_ar_1_1,c_fill,g_auto__c_scale,w_499.jpg 499w,
+carousel1_ub75kh_ar_1_1,c_fill,g_auto__c_scale,w_577.jpg 577w,
+carousel1_ub75kh_ar_1_1,c_fill,g_auto__c_scale,w_655.jpg 655w,
+carousel1_ub75kh_ar_1_1,c_fill,g_auto__c_scale,w_731.jpg 731w,
+carousel1_ub75kh_ar_1_1,c_fill,g_auto__c_scale,w_767.jpg 767w"
+src="carousel1_ub75kh_ar_1_1,c_fill,g_auto__c_scale,w_767.jpg"
+alt="">
+

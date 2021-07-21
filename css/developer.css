@@ -1,0 +1,18 @@
+#content{
+    text-align: center;
+/*    padding: 0px;*/
+}
+#detailList{
+    margin-top: 20px;
+}
+#detailList ul{
+    
+/*    width: fit-content;*/
+    
+    background-color: rgb(252,252,252);
+    display: inline-block;
+    list-style: none;
+    border: 2px black solid;
+    border-radius: 1rem;
+    padding: 20px;
+}
